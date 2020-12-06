@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Convert Decimal to binary
+//Convert binary to decimal
 
 
 int main() {
